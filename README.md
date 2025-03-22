@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dheer183
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence and trying to solve buisness problems using AI
 - 💞️ I’m looking to collaborate with experienced Data Scientist 
 - 📫 You can reach me through my email dheerparikh183@gmail.com
 
